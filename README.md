@@ -1,2 +1,2 @@
-# xml
-Understanding what's in an XML file
+# xml for the everyday analyst
+If you're new to data, it's like people are speaking a new language. You may have heard of XML before, but what does it stand for, what does it do, and how do you get to it?  This repository aims to serve as a plain language 'everything you need to know but were afraid to ask' guide to XML.  We'll define it, what kind of files have XML, how to access it, and break it down to understand it. 
